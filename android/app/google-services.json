@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122842032922",
+    "project_id": "qnaapp-c9361",
+    "storage_bucket": "qnaapp-c9361.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122842032922:android:611d522a118f6154e75aa3",
+        "android_client_info": {
+          "package_name": "com.example.qna_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_FEkXsvjlRgoUFe2yLf1zQmM4Ki36Bgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
